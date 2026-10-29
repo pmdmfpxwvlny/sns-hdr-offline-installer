@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-HDR+Photography-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-HDR+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 SNS-HDR Free Installer** — SNS-HDR is a professional HDR (High Dynamic Range) photography software for Windows and macOS. Works without internet access, no account required. Full offline installation.
+**💻 SNS-HDR Free Installer** — SNS-HDR is a professional HDR photo processing software for Windows with a focus on natural-looking tone mapping. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About SNS-HDR
 
-SNS-HDR is a professional HDR (High Dynamic Range) photography software for Windows and macOS. Merge multiple exposure-bracketed photos into a single HDR image with tone mapping algorithms that produce natural-looking or stylized results. SNS-HDR Pro supports batch processing, 32-bit HDR editing, and integration with Lightroom and Photoshop through plugins.
+SNS-HDR is a professional HDR photo processing software for Windows with a focus on natural-looking tone mapping. It supports batch processing, 32-bit output, and a range of tone mapping algorithms for creating HDR images that avoid the artificial HDR look.
 
 ---
 
 ## ❌ Problem: SNS-HDR is hard to access
 
-- **Commercial License** — Pro version requires paid upgrade
-- **Specialized Use** — Only useful for HDR photography workflows
-- **Learning Curve** — HDR tone mapping parameters require experimentation to master
-- **Source Photos Required** — Results depend on quality of bracketed source exposures
+- **Windows Only** — No macOS or Linux version available
+- **Paid License** — Requires purchase; lite version has significant limitations
+- **Niche Market** — HDR photography workflow software with a specialized audience
+- **Competition** — Lightroom HDR merge and Photomatix have larger user communities
 
 ---
 
@@ -121,7 +121,7 @@ SNS-HDR is a professional HDR (High Dynamic Range) photography software for Wind
 
 ---
 
-**SNS-HDR Free Installer** — SNS-HDR is a professional HDR (High Dynamic Range) photography software for Windows and macOS. Install without internet connection today!
+**SNS-HDR Free Installer** — SNS-HDR is a professional HDR photo processing software for Windows with a focus on natural-looking tone mapping. Install without internet connection today!
 
 <div align="center">
 
